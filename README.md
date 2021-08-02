@@ -1,0 +1,1 @@
+# starmind_challenge
